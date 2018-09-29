@@ -11,26 +11,26 @@
 #### 基础入门
 建议先学习逻辑回归算法，编写实验代码，不急于学习其他的算法，通过学习逻辑回归，可以了解机器算法解决问题的思路，如何进行训练和预测，如何进行模型的评估。
 
-* [机器学习基础](https://github.com/apachecn/MachineLearning/blob/python-2.7/docs/1.%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80.md)
+* [机器学习基础](https://github.com/apachecn/MachineLearning)
 * [逻辑回归算法](https://github.com/apachecn/MachineLearning/blob/master/docs/5.Logistic%E5%9B%9E%E5%BD%92.md)
 
 
 
 ### Spark
 #### 入门
-* [Spark官方文档中文版:page_facing_up:](http://spark.apachecn.org/)
+* [Spark官方文档中文版](http://spark.apachecn.org/)
 
 ## 深度学习
 
 ### Tensorflow
 #### 入门
-* 安装Tensorflow：[官方安装手册:page_facing_up:](https://www.tensorflow.org/install/)
+* 安装Tensorflow：[官方安装手册](https://www.tensorflow.org/install/)
  
 * 初步学习和了解Tensorflow [中文视频](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/)
 
 	简短的小视频教程，快速上手写tf小例子，初步了解tf的使用
 
-* Google机器学习速成课程 [视频](https://developers.google.com/machine-learning/crash-course/)
+* Google机器学习速成课程 :arrow_forward:[视频](https://developers.google.com/machine-learning/crash-course/)
 
 	本课程是Google官方推出的视频教程，源于内部培训，包含视频和练习材料
 * ddd 
@@ -47,5 +47,5 @@
 
 
 :green_book:
-:arrow_forward:
+
 
